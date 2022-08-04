@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		1125A396289BB49D00BF817D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1125A395289BB49D00BF817D /* AppDelegate.swift */; };
 		1125A398289BB49D00BF817D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1125A397289BB49D00BF817D /* SceneDelegate.swift */; };
-		1125A39A289BB49D00BF817D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1125A399289BB49D00BF817D /* ViewController.swift */; };
+		1125A39A289BB49D00BF817D /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1125A399289BB49D00BF817D /* HomeViewController.swift */; };
 		1125A39D289BB49D00BF817D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1125A39B289BB49D00BF817D /* Main.storyboard */; };
 		1125A3A0289BB49D00BF817D /* DarkLightTheme.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1125A39E289BB49D00BF817D /* DarkLightTheme.xcdatamodeld */; };
 		1125A3A2289BB4A200BF817D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1125A3A1289BB4A200BF817D /* Assets.xcassets */; };
@@ -20,7 +20,7 @@
 		1125A392289BB49D00BF817D /* DarkLightTheme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DarkLightTheme.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1125A395289BB49D00BF817D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1125A397289BB49D00BF817D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1125A399289BB49D00BF817D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1125A399289BB49D00BF817D /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		1125A39C289BB49D00BF817D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1125A39F289BB49D00BF817D /* DarkLightTheme.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DarkLightTheme.xcdatamodel; sourceTree = "<group>"; };
 		1125A3A1289BB4A200BF817D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,10 +60,10 @@
 			children = (
 				1125A395289BB49D00BF817D /* AppDelegate.swift */,
 				1125A397289BB49D00BF817D /* SceneDelegate.swift */,
-				1125A399289BB49D00BF817D /* ViewController.swift */,
+				1125A399289BB49D00BF817D /* HomeViewController.swift */,
 				1125A39B289BB49D00BF817D /* Main.storyboard */,
-				1125A3A1289BB4A200BF817D /* Assets.xcassets */,
 				1125A3A3289BB4A200BF817D /* LaunchScreen.storyboard */,
+				1125A3A1289BB4A200BF817D /* Assets.xcassets */,
 				1125A3A6289BB4A200BF817D /* Info.plist */,
 				1125A39E289BB49D00BF817D /* DarkLightTheme.xcdatamodeld */,
 			);
@@ -142,7 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1125A3A0289BB49D00BF817D /* DarkLightTheme.xcdatamodeld in Sources */,
-				1125A39A289BB49D00BF817D /* ViewController.swift in Sources */,
+				1125A39A289BB49D00BF817D /* HomeViewController.swift in Sources */,
 				1125A396289BB49D00BF817D /* AppDelegate.swift in Sources */,
 				1125A398289BB49D00BF817D /* SceneDelegate.swift in Sources */,
 			);
