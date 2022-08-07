@@ -41,9 +41,7 @@
                             <constraint firstItem="XQr-YD-oKk" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="hO5-Ds-Xox"/>
                         </constraints>
                     </view>
-                    <toolbarItems>
-                        <barButtonItem title="Item" id="Ygz-vs-EDY"/>
-                    </toolbarItems>
+                    <toolbarItems/>
                     <navigationItem key="navigationItem" id="rqr-AS-9yX">
                         <barButtonItem key="leftBarButtonItem" title="Item" image="info.circle.fill" catalog="system" id="kPT-cZ-PlT">
                             <connections>
